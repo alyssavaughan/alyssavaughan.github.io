@@ -7,7 +7,7 @@ This is my home page and my name is Alyssa Vaughan! I am a math major at CSUF an
 
 Lab 3 Part-1
   
-  This was one of my favorite labs because I felt like this was the first lab I really started to understand and incorporate what I was learning into actual code. It was an easy lab looking back on it now, however, I took great pride in the code actually running and being able to produce what the directions had asked for. It was also fun because my lab partner and I were working together on it, so whenever I had questions or he had questions, we could help each other. 
+--This was one of my favorite labs because I felt like this was the first lab I really started to understand and incorporate what I was learning into actual code. It was an easy lab looking back on it now, however, I took great pride in the code actually running and being able to produce what the directions had asked for. It was also fun because my lab partner and I were working together on it, so whenever I had questions or he had questions, we could help each other. 
 
 Lab 4 Part-2 
 
