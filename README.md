@@ -1,9 +1,9 @@
 # alyssavaughan.github.io
-#Alyssa Vaughan’s Portfolio
+# Alyssa Vaughan’s Portfolio
 
 This is my home page and my name is Alyssa Vaughan! I am a math major at CSUF and below are my favorite CPSC projects. 
 
-##Computer Science Projects
+## Computer Science Projects
 
 Lab 3 Part-1
   
